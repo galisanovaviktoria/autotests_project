@@ -1,1 +1,0 @@
-# autotests_project
