@@ -1,0 +1,48 @@
+Ñòðóêòóðà ïàïîê òîìà Windows
+Ñåðèéíûé íîìåð òîìà: CE51-A1B4
+C:.
+¦   .gitignore
+¦   conftest.py
+¦   requirements.txt
+¦   structure.txt
+¦   test_import_main_page.py
+¦   test_main_page.py
+¦   __init__.py
+¦   
++---.pytest_cache
+¦   ¦   .gitignore
+¦   ¦   CACHEDIR.TAG
+¦   ¦   README.md
+¦   ¦   
+¦   L---v
+¦       L---cache
+¦               lastfailed
+¦               nodeids
+¦               stepwise
+¦               
++---pages.py
+¦   ¦   base_page.py
+¦   ¦   main_page.py
+¦   ¦   __init__.py
+¦   ¦   
+¦   +---.pytest_cache
+¦   ¦   ¦   .gitignore
+¦   ¦   ¦   CACHEDIR.TAG
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   L---v
+¦   ¦       L---cache
+¦   ¦               lastfailed
+¦   ¦               nodeids
+¦   ¦               stepwise
+¦   ¦               
+¦   L---__pycache__
+¦           main_page.cpython-312.pyc
+¦           test_main_page.cpython-312-pytest-7.1.2.pyc
+¦           __init__.cpython-312.pyc
+¦           
+L---__pycache__
+        conftest.cpython-312-pytest-7.1.2.pyc
+        test_main_page.cpython-312-pytest-7.1.2.pyc
+        __init__.cpython-312.pyc
+        
